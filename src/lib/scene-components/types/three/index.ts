@@ -1,0 +1,1 @@
+export { type Vector3Prop, type ShadowsProp } from './three.types'
